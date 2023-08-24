@@ -1,0 +1,33 @@
+/* Styles pour la barre de navigation */
+.navbar {
+    background-color: #333;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    padding: 10px 0;
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: white;
+    margin: 0 20px;
+}
+
+/* Styles pour les sections de contenu */
+.content-section {
+    padding: 20px;
+    background-color: #f4f4f4;
+    margin: 20px 0;
+}
+
+/* Styles pour le pied de page */
+.footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f4f4f4;
+}
